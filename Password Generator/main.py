@@ -1,6 +1,6 @@
-from password_generator_module import num_letter
-from password_generator_module import num
-from password_generator_module import letter
+from module import num_letter
+from module import num
+from module import letter
 import random
 
 while True:
